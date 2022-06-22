@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggbraid"]
+	path = ggbraid
+	url = https://github.com/nsgrantham/ggbraid
+	shallow = true
+	registered = true
